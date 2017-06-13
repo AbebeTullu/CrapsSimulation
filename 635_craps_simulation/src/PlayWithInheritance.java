@@ -100,6 +100,7 @@ public class PlayWithInheritance
 	 * 
 	 * @param msg
 	 * @param toDescribe
+	 * @param toDescribe
 	 */
 
 	public static void describe(String msg, Die toDescribe)
