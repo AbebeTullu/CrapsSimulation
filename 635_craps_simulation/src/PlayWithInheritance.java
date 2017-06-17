@@ -1,4 +1,4 @@
-/**
+/** Abebe Tullu
  * Just some Java code to allow you to explore inheritance, constructor
  * chaining, and polymorphism ("dynamic method lookup")
  * 
